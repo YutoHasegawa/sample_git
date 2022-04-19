@@ -6,5 +6,7 @@ int main()
 
 	printf("‚±‚ñ‚Î‚ñ‚íB");
 
+	printf("aaaaa.");
+
 	return 0;
 }
