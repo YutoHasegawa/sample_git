@@ -8,5 +8,7 @@ int main()
 
 	printf("aaaaa.");
 
+	printf("ç≈å„");
+
 	return 0;
 }
