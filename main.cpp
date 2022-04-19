@@ -6,7 +6,7 @@ int main()
 
 	printf("Ç±ÇÒÇŒÇÒÇÌÅB");
 
-	printf("aaaaa.Å@Ç†Ç†Ç†Ç†Ç†Ç†Ç†Ç†Ç†");
+	printf("aaaaa.Å@ÇÊÇÎÇµÇ≠Ç®äËÇ¢Ç¢ÇΩÇµÇ‹Ç∑");
 
 	return 0;
 }
