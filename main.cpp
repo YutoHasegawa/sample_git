@@ -8,5 +8,7 @@ int main()
 
 	printf("aaaaa.Å@ÇÊÇÎÇµÇ≠Ç®äËÇ¢Ç¢ÇΩÇµÇ‹Ç∑");
 
+	printf("ç≈å„");
+
 	return 0;
 }
