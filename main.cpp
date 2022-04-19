@@ -6,5 +6,7 @@ int main()
 
 	printf("Ç±ÇÒÇŒÇÒÇÌÅB");
 
+	printf("Ç®Ç‚Ç∑Ç›ÅB");
+
 	return 0;
 }
